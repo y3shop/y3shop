@@ -1,6 +1,10 @@
 
 public class A {
-public void a(){}
+public void a(){
+	
+	
+	
+}
 
 
 }
